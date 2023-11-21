@@ -1,0 +1,119 @@
+body{
+    margin: 0px;
+    padding: 0px;
+  }
+.showg{
+  width: 1000px;
+  height: 800px;
+  margin: auto;
+  
+}
+.fixshowg{
+  text-align: center;
+  margin: -50px; 
+}
+.a{
+  position: absolute; 
+  right: 0px;
+  left: 400px;
+  margin: 50px; 
+}
+.b{
+  position: absolute; 
+  right: 0px;
+  left: 630px;
+  margin: 50px; 
+}
+.ans{
+  position: absolute; 
+  right: 0px;
+  left: 950px;
+  margin: 50px; 
+}
+.errorpoint{
+  position: absolute; 
+  right: 0px;
+  left: 1180px;
+  margin: 50px; 
+}
+.ca{
+  text-align: center;
+  padding: 150px; 
+}
+.fixan{
+  position: absolute;
+  text-align: center; 
+  right: 0px;
+  left:  0px;
+  margin: -100px;
+}
+.eq{
+  position: absolute; 
+  text-align: center; 
+  right: 0px;
+  left: 0px;
+  margin: 50px; 
+}
+/*new class 3/11/66*/
+.inputmx{
+  text-align: center; 
+}
+.valuemx{
+  position: absolute;
+  text-align: center; 
+}
+.camx{
+  text-align: center;
+  padding: 40px; 
+}
+.root{
+  text-align: center;
+  margin: -30px;
+}
+/*new class 7/11/66*/
+.fixerrorpoint{
+  position: absolute; 
+  right: 0px;
+  left: 1180px;
+  margin: 50px; 
+}
+.fixroot{
+  position: absolute; 
+  right: 0px;
+  left: 330px;
+  margin: 120px; 
+}
+.maxti
+{
+  position: absolute; 
+  right: 0px;
+  left: 560px;
+  margin: 120px; 
+}
+.fixca
+{
+  text-align: center;
+  padding: 220px;
+}
+.totalroot
+{
+  text-align: center;
+  padding: 200px; 
+}
+.ansroot
+{
+  position: absolute; 
+  text-align: center;
+  right: 0px;
+  left: 0px;
+  margin: -190px; 
+}
+/*new class 8/11/66*/
+.fixinputmx
+{
+  position: absolute; 
+  text-align: center; 
+  right: 0px;
+  left: 0px;
+  margin: -80px; 
+}
